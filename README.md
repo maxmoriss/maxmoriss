@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxmoriss
-- 👀 I’m interested in web technology
-- 🌱 I’m currently learning python ecosystem
+- 🌱 I’m Software Engineer
+- 👀 I’m interested in web technologies
 - 📫 How to reach me ...
 
 <!---
